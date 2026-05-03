@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/L67807Q/aura-banner.png" alt="Harold Medrano Emiliani - Fullstack Developer" width="100%">
+  <img src="https://images.unsplash.com/photo-1518770660439-463619088552?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="Harold Medrano Emiliani - Fullstack Developer" width="100%">
   <h1>HAROLD MEDRANO EMILIANI 🔮</h1>
   <h3>🌐 Software Developer | Fullstack</h3>
   <p>
@@ -23,7 +23,7 @@
 
   
   <div align="center">
-    <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/readme-profile.svg" alt="Profile Illustration" width="400">
+    <img src="https://user-images.githubusercontent.com/74038190/211756470-4f9e3d93-35f9-467f-8566-061034f7193b.svg" alt="Profile Illustration" width="400">
   </div>
   <br>
 
