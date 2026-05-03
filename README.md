@@ -21,9 +21,6 @@
   <h2>🚀 Acerca de mí</h2>
 </div>
 
-<details>
-  <summary>Haz clic para saber más</summary>
-  <br>
   
   <div align="center">
     <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/readme-profile.svg" alt="Profile Illustration" width="400">
@@ -39,15 +36,13 @@
 
   ### 📍 Colombia - Medellín
 
-</details>
-
 ---
 
 <div align="center">
   <h2>💻 Tech Stack & Skills</h2>
 </div>
 
-<details>
+ 
   <summary>Mis Herramientas y Habilidades</summary>
   <br>
   
@@ -59,14 +54,12 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </p>
-
     <h3>Backend</h3>
     <p>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
     </p>
-
     <h3>Frontend</h3>
     <p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -74,13 +67,11 @@
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     </p>
-
     <h3>Bases de Datos</h3>
     <p>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
     </p>
-
     <h3>Herramientas & Plataformas</h3>
     <p>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -89,14 +80,13 @@
       <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=sharepoint&logoColor=white" alt="SharePoint Online">
       <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary">
     </p>
-
     <h3>Habilidades Blandas</h3>
     <p>
       ✅ Resolución de problemas • ✅ Trabajo en equipo • ✅ Pensamiento analítico • ✅ Adaptabilidad • ✅ Liderazgo • ✅ Comunicación efectiva • ✅ Metodologías ágiles • ✅ Gestión de tiempo • ✅ Autogestión
     </p>
   </div>
 
-</details>
+ 
 
 ---
 
@@ -104,7 +94,7 @@
   <h2>👨‍💼 Experiencia Profesional</h2>
 </div>
 
-<details>
+ 
   <summary>Mi trayectoria</summary>
   <br>
 
@@ -122,7 +112,7 @@
   -   Colaboré estrechamente con equipos de frontend, utilizando frameworks modernos como React y React Native.
   -   Asumí roles de liderazgo en proyectos específicos y contribuí activamente como parte de equipos ágiles en otros, demostrando versatilidad y adaptabilidad.
   
-</details>
+ 
 
 ---
 
@@ -130,14 +120,14 @@
   <h2>🎓 Educación</h2>
 </div>
 
-<details>
+ 
   <summary>Mi formación</summary>
   <br>
 
   ### 🏛️ Tecnología en Sistemas
   *Fundación Universitaria Antonio de Arévalo | Graduado: Mayo 2010*
   
-</details>
+ 
 
 ---
 
@@ -145,7 +135,7 @@
   <h2>💡 Proyectos Destacados</h2>
 </div>
 
-<details>
+ 
   <summary>Explora mis proyectos</summary>
   <br>
 
@@ -158,7 +148,7 @@
   ### 3. 📱 Closetoyou
   *Aplicación móvil para la gestión de contactos, utilizando React Native, Node.js, TypeScript y Cloudinary. Implementé funciones clave como la autenticación de usuarios con JWT, actualizaciones dinámicas de contactos mediante integración de API y una gestión fluida de perfiles. Garanticé un manejo eficiente del estado con AsyncStorage y creé una experiencia de navegación intuitiva, mejorando el compromiso y la satisfacción del usuario.*
   
-</details>
+ 
 
 ---
 
@@ -166,7 +156,7 @@
   <h2>✨ Hobbies & Intereses</h2>
 </div>
 
-<details>
+ 
   <summary>Mi tiempo libre</summary>
   <br>
   
@@ -175,10 +165,6 @@
       📚 Aprender nuevas tecnologías • 📖 Lectura de ficción • 🏍️ Viajar en moto • 🚴 Montar bicicleta • 🎸 Tocar la guitarra • 🥁 Tocar la batería • ✈️ Viajar • 🍳 Cocinar • 🎶 Escuchar música
     </p>
   </div>
-</details>
+ 
 
----
 
-<div align="center">
-  <p>Construido con 💖 por Aura 🔮 (tu asistente de OpenClaw)</p>
-</div>
