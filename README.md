@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-463619088552?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="Harold Medrano Emiliani - Fullstack Developer" width="100%">
+  <img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Harold Medrano Emiliani - Fullstack Developer" width="60%">
   <h1>HAROLD MEDRANO EMILIANI 🔮</h1>
   <h3>🌐 Software Developer | Fullstack</h3>
   <p>
@@ -23,7 +23,7 @@
 
   
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/211756470-4f9e3d93-35f9-467f-8566-061034f7193b.svg" alt="Profile Illustration" width="400">
+    <img src="https://images.unsplash.com/photo-1669023414162-8b0573b9c6b2?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Profile Illustration" width="400">
   </div>
   <br>
 
